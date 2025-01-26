@@ -1,6 +1,6 @@
 ## Hello, I am Luiz! 🤘
 
-I'm a Brazilian 🇧🇷, from Amazon region 🌳, living and working with Data Analytics in Europe. 
+I'm a Brazilian 🇧🇷 from Amazon region 🌳 living and working with Data Analytics in Europe. 
 
 I'm a music lover 🎸 and data enthusiastic always eager to learn and curious about new technologies and trends. 🤓
 
