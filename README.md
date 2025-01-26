@@ -7,13 +7,16 @@ I'm a music lover 🎸 and data enthusiastic always eager to learn and curious a
 👨🏻‍💻 Currently I'm working on improving my tech stack in data engineering by learning and developing projects with dbt, Airflow, SQL and Python.
 
 ## Tech Stack
-<img src="assets/pbi_icon.svg" width='60' height='58'/>
-<img src="assets/tbw_icon.png" width='60' height='56'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='64' height='62'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width='60' height='60'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width='56' height='56'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='60' height='60'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width='80' height='70'/>
+<div style="display: flex; align-items: center; justify-content: left; gap: 10px;">
+  <img src="assets/pbi_icon.svg" width="60" height="58" />
+  <img src="assets/tbw_icon.png" width="60" height="56" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="62" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="56" height="56" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="70" />
+</div>
+
 
 
 ## A Few Things I Love 🫶
