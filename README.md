@@ -6,7 +6,7 @@ I'm a music lover 🎸 and data enthusiastic always eager to learn and curious a
 
 👨🏻‍💻 Currently I'm working on improving my tech stack in data engineering by learning and developing projects with dbt, Airflow, SQL and Python.
 
-## A Few Things I Love 🫶
+## A Few Things I Love 🤩
 
 ### Building Projects ⚒️
 - Whether it’s a fun weekend project or a serious business initiative, I’m constantly experimenting and improving my skills with hands-on data projects. 
