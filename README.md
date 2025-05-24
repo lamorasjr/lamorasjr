@@ -1,6 +1,6 @@
 ## Hello, I am Luiz.
 
-Brazilian tech guy living and working with Analytics Engineering in Europe. 👨🏻‍💻 
+Brazilian tech guy living and working with BI & Analytics Engineering in Europe. 👨🏻‍💻 
 
 Currently I'm working on improving my tech stack in data engineering by learning and developing projects with dbt, Airflow, SQL and Python.
 
